@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/corona-virus-stats/static/css/main.1ac1542a.chunk.css",
+    "main.js": "/corona-virus-stats/static/js/main.c7de4ad0.chunk.js",
+    "runtime-main.js": "/corona-virus-stats/static/js/runtime-main.bb688ff1.js",
+    "static/js/2.86137f46.chunk.js": "/corona-virus-stats/static/js/2.86137f46.chunk.js",
+    "index.html": "/corona-virus-stats/index.html",
+    "precache-manifest.fac0dd54da90720f08aff6c8409a6e72.js": "/corona-virus-stats/precache-manifest.fac0dd54da90720f08aff6c8409a6e72.js",
+    "service-worker.js": "/corona-virus-stats/service-worker.js",
+    "static/js/2.86137f46.chunk.js.LICENSE.txt": "/corona-virus-stats/static/js/2.86137f46.chunk.js.LICENSE.txt",
+    "static/media/github.7215a9bd.svg": "/corona-virus-stats/static/media/github.7215a9bd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb688ff1.js",
+    "static/js/2.86137f46.chunk.js",
+    "static/css/main.1ac1542a.chunk.css",
+    "static/js/main.c7de4ad0.chunk.js"
+  ]
+}
