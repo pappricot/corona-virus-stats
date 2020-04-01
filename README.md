@@ -1,6 +1,6 @@
 ## COVID-19 Stats
 
-Special thanks to cdmoro at https://github.com/cdmoro
+To see live: https://pappricot.github.io/corona-virus-stats/
 
 Get the latest COVID-19 stadistics by country. Provided by [covid-19 API Rest](https://github.com/mathdroid/covid-19-api).
 
@@ -44,6 +44,8 @@ to run
     - Portuguese
 
 ## Credits
+
+Special thanks to cdmoro(https://github.com/cdmoro)
 
 - [COVID-19 API Rest](https://github.com/mathdroid/covid-19-api) for the stats
 - [Rest countries API](http://restcountries.eu/)
