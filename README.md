@@ -1,5 +1,7 @@
 ## COVID-19 Stats
 
+Special thanks for cdmoro at https://github.com/cdmoro
+
 Get the latest COVID-19 stadistics by country. This is a result of messin' around with a public [covid-19 API Rest](https://github.com/mathdroid/covid-19-api). However, this project is in early stages, there are more features in the future!
 
 ![App screenshot](https://i.imgur.com/OuK0E3P.png)
