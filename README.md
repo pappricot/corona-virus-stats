@@ -1,6 +1,6 @@
 ## COVID-19 Stats
 
-Special thanks for cdmoro at https://github.com/cdmoro
+Special thanks to cdmoro at https://github.com/cdmoro
 
 Get the latest COVID-19 stadistics by country. Provided by [covid-19 API Rest](https://github.com/mathdroid/covid-19-api).
 
@@ -12,7 +12,7 @@ After cloning, make sure your are inside folder covid-19-stats:
 
 then
 
-```npx install``` or ```npm install
+```npx install``` or ```npm install```
 
 to run
 
