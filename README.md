@@ -2,9 +2,23 @@
 
 Special thanks for cdmoro at https://github.com/cdmoro
 
-Get the latest COVID-19 stadistics by country. This is a result of messin' around with a public [covid-19 API Rest](https://github.com/mathdroid/covid-19-api). However, this project is in early stages, there are more features in the future!
+Get the latest COVID-19 stadistics by country. Provided by [covid-19 API Rest](https://github.com/mathdroid/covid-19-api).
 
-![App screenshot](https://i.imgur.com/OuK0E3P.png)
+## Installation
+
+After cloning, make sure your are inside folder covid-19-stats:
+
+```cd covid-19-stats```
+
+then
+
+```npx install``` or ```npm install
+
+to run
+
+```npm start```
+
+
 
 ## Made with
 
@@ -29,18 +43,6 @@ Get the latest COVID-19 stadistics by country. This is a result of messin' aroun
     - Italian
     - Portuguese
 
-## Todos
-
-- [x] Dark/light mode
-- [x] Type safety (typescript)
-- [x] World map
-- [x] Animated background map
-- [x] Zoomable map
-- [x] Automatic/manual zoom mode
-- [x] Internationalization (i18n)
-- [ ] PWA with push motifications
-- [ ] Geolocalization
-
 ## Credits
 
 - [COVID-19 API Rest](https://github.com/mathdroid/covid-19-api) for the stats
@@ -51,11 +53,4 @@ Get the latest COVID-19 stadistics by country. This is a result of messin' aroun
 
 The MIT License (MIT).
 
-## Contact
-
-- [Github](https://github.com/cdmoro)
-- [Gitlab](https://gitlab.com/carlosbonadeo)
-- [Linkedin](https://www.linkedin.com/in/cdbonadeo/)
-- [Twitter](https://twitter.com/CarlosBonadeo)
-- [Email](mailto:carlosbonadeo@gmail.com)
 # corona-virus-stats
